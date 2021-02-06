@@ -1,0 +1,75 @@
+<B3>
+    <ACOES>
+        <NOME>AMBEV</NOME>
+        <COD>ABEV3</COD>
+        <ATV>Fabricação e distribuição de cervejas, refrigerantes e bebidas.</ATV>
+        <SET>Consumo não Cíclico / Bebidas / Cervejas e Refrigerantes</SET>
+        <SITE>https://www.ambev.com.br/</SITE>
+        <LINK>https://br.tradingview.com/chart?symbol=BMFBOVESPA%3AABEV3</LINK>
+    </ACOES>
+
+    <ACOES>
+        <NOME>AERIS</NOME>
+        <COD>AERI3</COD>
+        <ATV>Construção e comercialização de pás de rotores para turbinas de geração eólica de energia.</ATV>
+        <SET>Bens Industriais / Máquinas e Equipamentos / Máq. e Equip. Industriais</SET>
+        <SITE></SITE>
+        <LINK></LINK>
+    </ACOES>
+
+    <ACOES>
+        <NOME>BRADESCO</NOME>
+        <COD>BBDC4</COD>
+        <ATV>Prática de Operações Bancárias em Geral</ATV>
+        <SET>Financeiro / Intermediários Financeiros / Bancos</SET>
+        <SITE></SITE>
+        <LINK></LINK>
+    </ACOES>
+
+    <ACOES>
+        <NOME>MINERVA FOODS</NOME>
+        <COD>BEEF3</COD>
+        <ATV>Exportação de Carne Bovina In Natura E Seus Derivados.</ATV>
+        <SET>Consumo não Cíclico / Alimentos Processados / Carnes e Derivados</SET>
+        <SITE></SITE>
+        <LINK></LINK>
+    </ACOES>
+
+    <ACOES>
+        <NOME>BR MALLS</NOME>
+        <COD>BRML3</COD>
+        <ATV>Holding</ATV>
+        <SET>Financeiro / Exploração de Imóveis / Exploração de Imóveis</SET>
+        <SITE></SITE>
+        <LINK></LINK>
+    </ACOES>
+
+    <ACOES>
+        <NOME>ITAUSA</NOME>
+        <COD>ITSA4</COD>
+        <ATV>Gestão de Participações Societárias (holding)</ATV>
+        <SET>Financeiro / Intermediários Financeiros / Bancos</SET>
+        <SITE></SITE>
+        <LINK></LINK>
+    </ACOES>
+
+    <ACOES>
+        <NOME>IMC S/A</NOME>
+        <COD>MEAL3</COD>
+        <ATV>Setor de Varejo de Alimentação</ATV>
+        <SET>Consumo Cíclico / Hoteis e Restaurantes / Restaurante e Similares</SET>
+        <SITE></SITE>
+        <LINK></LINK>
+    </ACOES>
+
+    <ACOES>
+        <NOME>SINQIA</NOME>
+        <COD>SQIA3</COD>
+        <ATV>Produção, Desenvolvimento E Distribuição de Programas de Computador</ATV>
+        <SET>Tecnologia da Informação / Programas e Serviços / Programas e Serviços</SET>
+        <SITE></SITE>
+        <LINK></LINK>
+    </ACOES>
+    
+    
+</B3>
